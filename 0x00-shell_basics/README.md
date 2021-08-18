@@ -7,3 +7,4 @@ mv /tmp/betty /tmp/my_first_directory
 rm betty removes file betty
 rmdir /tmp/my_first_directory removes the directory
 cd - takes you to the previous directory
+ls -al . .. /boot lists all directories even hidden ones beginning with a period
