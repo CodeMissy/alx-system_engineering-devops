@@ -19,3 +19,5 @@ cd - takes you to the previous directory.
 ls -al . .. /boot lists all directories even hidden ones beginning with a period.
 
 file /tmp/iamafile prints the type of iamafile file.
+
+ln -s /bin/ls ls creates the symbolic link in the current directory.
