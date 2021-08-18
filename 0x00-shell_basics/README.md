@@ -5,3 +5,4 @@ ls -la prints long list of directory contents and group IDs displayed numericall
 mkdir /tmp/my_first_directory creates a new directory
 mv /tmp/betty /tmp/my_first_directory
 rm betty removes file betty
+rmdir /tmp/my_first_directory removes the directory 
