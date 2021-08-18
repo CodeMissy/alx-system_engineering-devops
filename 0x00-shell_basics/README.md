@@ -4,3 +4,4 @@ ls -la prints long list of directory including hidden files
 ls -la prints long list of directory contents and group IDs displayed numerically
 mkdir /tmp/my_first_directory creates a new directory
 mv /tmp/betty /tmp/my_first_directory
+rm betty removes file betty
