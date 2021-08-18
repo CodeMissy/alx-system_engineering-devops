@@ -23,3 +23,5 @@ file /tmp/iamafile prints the type of iamafile file.
 ln -s /bin/ls __ls__ creates the symbolic link in the current directory.
 
 cp -u *.html .. copies all html file that did not exist in parent directory to new directory.
+
+mv src/*[A-Z]* dest moves all files beginning with uppercase letter to the directory.
