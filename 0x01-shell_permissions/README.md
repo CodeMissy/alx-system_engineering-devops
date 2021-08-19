@@ -14,4 +14,4 @@
 
 7) chmod a+x hello => gives execute permission to owner, group owner and users.
 
-8) chmod 700 hello => removes all permissions for owner and grouo owner and gives all permissions to the user.
+8) chmod 007 hello => removes all permissions for owner and grouo owner and gives all permissions to the user.
