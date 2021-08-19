@@ -8,4 +8,4 @@
 
 4) touch hello => creates an empty file called hello.
 
-5) -rwxr--r-- => adds execute permission to the owner of file hello.
+5) chmod u+x hello => adds execute permission to the owner of file hello.
