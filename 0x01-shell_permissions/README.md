@@ -23,3 +23,5 @@
 11) chmod -R+X. executes permissions to all subdirectories of current directory for owner, group ownerad user, regular files are not changed.
 
 12) mkdir -m 751 my_dir => creates a directory called my_dir with permissions 751 in the working directory.
+
+13) chgrp school hello => changes group ownership of school to hello.
