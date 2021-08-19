@@ -11,3 +11,5 @@
 5) chmod u+x hello => adds execute permission to the owner of file hello.
 
 6) chmod ug+x,o+r hello => gives execute permission to owner and group owner, and read permission to the user.
+
+7) chmod a+x hello => gives execute permission to owner, group owner and users.
