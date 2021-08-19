@@ -15,3 +15,5 @@
 7) chmod a+x hello => gives execute permission to owner, group owner and users.
 
 8) chmod 007 hello => removes all permissions for owner and grouo owner and gives all permissions to the user.
+
+9) chmod 753 hello sets the mode of the file to -rwxr-x-wx.
