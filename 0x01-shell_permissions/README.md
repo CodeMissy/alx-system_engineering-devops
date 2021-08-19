@@ -19,3 +19,5 @@
 9) chmod 753 hello sets the mode of the file to -rwxr-x-wx.
 
 10) chmod --reference=olleh hello sets same permissions olleh has to hello.
+
+11) chmod -R+X executes permissions to all subdirectories of current directory for owner, group ownerad user, regular files are not changed.
