@@ -25,3 +25,5 @@
 12) mkdir -m 751 my_dir => creates a directory called my_dir with permissions 751 in the working directory.
 
 13) chgrp school hello => changes group ownership of school to hello.
+
+14) chown vincent:staff* changes ownerto vincent and group owner to staff.
