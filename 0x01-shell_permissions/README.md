@@ -9,3 +9,5 @@
 4) touch hello => creates an empty file called hello.
 
 5) chmod u+x hello => adds execute permission to the owner of file hello.
+
+6) chmod 764 hello => gives execute permission to owner and group owner, and read permission to the user.
