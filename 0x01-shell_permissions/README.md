@@ -18,4 +18,4 @@
 
 9) chmod 753 hello sets the mode of the file to -rwxr-x-wx.
 
-10) cp-permissions hello olleh sets same permissions hello has to olleh.
+10) chmod --reference=olleh hello sets same permissions olleh has to hello.
