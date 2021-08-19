@@ -5,3 +5,5 @@
 2) groups => lists all the groups a current user is part of.
 
 3) chown betty hello => changes user of hello to betty.
+
+4) touch hello => creates an empty file called hello.
