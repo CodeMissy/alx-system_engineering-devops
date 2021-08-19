@@ -7,3 +7,5 @@
 3) chown betty hello => changes user of hello to betty.
 
 4) touch hello => creates an empty file called hello.
+
+5) chmod x hello => adds execute permission to the owner of file hello.
