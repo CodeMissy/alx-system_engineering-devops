@@ -13,3 +13,5 @@
 6) chmod ug+x,o+r hello => gives execute permission to owner and group owner, and read permission to the user.
 
 7) chmod a+x hello => gives execute permission to owner, group owner and users.
+
+8) chmod ug-rwx,o+rwx => removes all permissions for owner and grouo owner and gives all permissions to the user.
