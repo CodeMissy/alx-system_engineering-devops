@@ -26,4 +26,4 @@
 
 13) chgrp school hello => changes group ownership of school to hello.
 
-14) chown vincent:staff* changes ownerto vincent and group owner to staff.
+14) chown vincent staff changes ownerto vincent and group owner to staff.
