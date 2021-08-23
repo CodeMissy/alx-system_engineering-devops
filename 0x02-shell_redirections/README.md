@@ -15,3 +15,5 @@
 7) touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) => creates the file including the text Best School.
 
 8) tail -1 iacta >> iacta => duplicates the last line of the file iacta.
+
+9) rm -f */*/*.js => removes all files ending with a .js extensionn in currentt and sufolders directory.
