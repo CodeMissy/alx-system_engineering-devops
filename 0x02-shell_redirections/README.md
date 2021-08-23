@@ -1,3 +1,5 @@
+
+
 0) echo "Hello, World" => prints "Hello, World" followed by a new line to the standard output.
 
 1) echo "\"(  )"  displays a confused emoji to the screen.
@@ -25,3 +27,5 @@
 13) sort | uniq -u => takes a list of words and prints only words that appears only once.
 
 14) grep -i "root" /etc/passwd => this displays lines containing the pattern "root" from the file /etc/passwd.
+
+15) grep -c -i "bin" /etc/passwd => this displays the number of lines that contains the pattern "bin" inthe file /etc/passwd.
