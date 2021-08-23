@@ -38,5 +38,5 @@
 
 20) tr -d "cC" => this command removes all letters c and C from input.
 
-21) rev<<<"welcome" this command revers the input of welcomea
+21) echo welcome | awk => this command revers the input of welcomea
  and makesthe output emoclew.
