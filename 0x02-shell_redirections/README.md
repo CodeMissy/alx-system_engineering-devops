@@ -13,3 +13,5 @@
 6) head -3 iacta | tail +3 => displays the third line of the file iacta.
 
 7) touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) => creates the file including the text Best School.
+
+8) tail -1 iacta >> iacta => duplicates the last line of the file iacta.
