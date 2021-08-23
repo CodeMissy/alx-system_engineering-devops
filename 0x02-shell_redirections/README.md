@@ -33,3 +33,5 @@
 17) grep -i -v "bin" /etc/passwd => this command displays all the lines in the file /etc/passwd that do not contain the pattern bin.
 
 18) grep -i "^[a-z]" /etc/ssh/sshd_config => this command displays all lines of the fill /et/ssh/sshd_config starting with a letter.
+
+19) tr "A" "Z" | tr "c" "e" => this command replaces all characters  A and c from input Z and e.
