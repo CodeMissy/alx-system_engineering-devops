@@ -1,4 +1,4 @@
-0) echo "Hello, World" => prints "Hello, World" followed by a new line to the standard output.
+xc0) echo "Hello, World" => prints "Hello, World" followed by a new line to the standard output.
 
 1) echo "\"(  )"  displays a confused emoji to the screen.
 
@@ -20,4 +20,4 @@
 
 11) find . -type d -not -name '.'| wc -l => counts the numbers of directories and sub directories in current directory.
 
-12) print -lr -- **/*(om[1, 10]) => is used to access the newest 10 files in the current directory. this searches out the 10 most recent files but not recently modificated file.
+12) ls -t1 | head -n 10  => is used to access the newest 10 files in the current directory. this searches out the 10 most recent files but not recently modificated file.

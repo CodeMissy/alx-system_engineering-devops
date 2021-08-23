@@ -1,2 +1,2 @@
 #!/bin/bash
-print -lr -- **/*(om[1, 10])
+ls -t1 | head -n 10
