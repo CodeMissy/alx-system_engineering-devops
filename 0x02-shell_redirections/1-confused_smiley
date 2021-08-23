@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "U0001F92B"
+echo -e "\U0001F92B"
