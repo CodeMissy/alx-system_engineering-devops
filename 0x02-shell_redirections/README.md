@@ -16,4 +16,4 @@
 
 8) tail -1 iacta >> iacta => duplicates the last line of the file iacta.
 
-9) rm -f */*/*.js => removes all files ending with a .js extensionn in currentt and sufolders directory.
+9)find . -name "*.js" -delete => removes all files ending with a .js extensionn in currentt and sufolders directory.
