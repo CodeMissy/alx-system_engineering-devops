@@ -36,4 +36,7 @@
 
 19) tr "A" "Z" | tr "c" "e" => this command replaces all characters  A and c from input Z and e.
 
-20) tr -d "cC" => this command removes all letters c and C from input. 
+20) tr -d "cC" => this command removes all letters c and C from input.
+
+21) rev<<<"welcome" this command revers the input of welcomea
+ and makesthe output emoclew.
