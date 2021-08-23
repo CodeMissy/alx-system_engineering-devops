@@ -29,3 +29,5 @@
 15) grep -c -i "bin" /etc/passwd => this displays the number of lines that contains the pattern "bin" inthe file /etc/passwd.
 
 16) grep -c "root" -A 3 /etc/passwd => this displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
+
+17) grep -i -v "bin" /etc/passwd => this command displays all the lines in the file /etc/passwd that do not contain the pattern bin.
