@@ -18,4 +18,4 @@
 
 10)find -type f -name '*.js' -delete => removes all files ending with a .js extensionn in currentt and sufolders directory.
 
-11) tree -L 1 | tail -1 => counts the numbers of directories and sub directories in current directory.
+11) echo */ | wc => counts the numbers of directories and sub directories in current directory.
