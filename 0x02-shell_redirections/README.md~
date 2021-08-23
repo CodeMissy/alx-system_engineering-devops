@@ -3,3 +3,5 @@
 1) echo "\"(  )"  displays a confused emoji to the screen.
 
 2) cat /etc/passwd => displays the content of /etc/passwd files.
+
+3) cat /etc/passwd /etc/hosts displays the content of the two files.
