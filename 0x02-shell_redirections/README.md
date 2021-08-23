@@ -23,3 +23,5 @@
 12) ls -t1 | head -n 10  => is used to access the newest 10 files in the current directory. this searches out the 10 most recent files but not recently modificated file.
 
 13) sort | uniq -u => takes a list of words and prints only words that appears only once.
+
+14) grep -i "root" /etc/passwd => this displays lines containing the pattern "root" from the file /etc/passwd.
