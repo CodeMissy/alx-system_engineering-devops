@@ -11,3 +11,5 @@
 5) head -10 /etc/passwd => displays the first 10 lines of /etc/passwd.
 
 6) head -3 iacta | tail +3 => displays the third line of the file iacta.
+
+7) touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) => creates the file including the text Best School.
