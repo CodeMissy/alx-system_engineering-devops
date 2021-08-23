@@ -1,9 +1,0 @@
-0) echo "Hello, World" => prints "Hello, World" followed by a new line to the standard output.
-
-1) echo "\"(  )"  displays a confused emoji to the screen.
-
-2) cat /etc/passwd => displays the content of /etc/passwd files.
-
-3) cat /etc/passwd /etc/hosts displays the content of the two files.
-
-4) tail -10 /etc/passwd => displays the last 10 lines of /etc/passwd.

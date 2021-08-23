@@ -19,3 +19,5 @@
 10)find -type f -name '*.js' -delete => removes all files ending with a .js extensionn in currentt and sufolders directory.
 
 11) find . -type d -not -name '.'| wc -l => counts the numbers of directories and sub directories in current directory.
+
+12) print -lr -- **/*(om[1, 10]) => is used to access the newest 10 files in the current directory. this searches out the 10 most recent files but not recently modificated file.
