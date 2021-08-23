@@ -35,3 +35,5 @@
 18) grep -i "^[a-z]" /etc/ssh/sshd_config => this command displays all lines of the fill /et/ssh/sshd_config starting with a letter.
 
 19) tr "A" "Z" | tr "c" "e" => this command replaces all characters  A and c from input Z and e.
+
+20) tr -d "cC" => this command removes all letters c and C from input. 
