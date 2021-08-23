@@ -16,4 +16,6 @@
 
 8) tail -1 iacta >> iacta => duplicates the last line of the file iacta.
 
-9)find -type f -name '*.js' -delete => removes all files ending with a .js extensionn in currentt and sufolders directory.
+10)find -type f -name '*.js' -delete => removes all files ending with a .js extensionn in currentt and sufolders directory.
+
+11) tree -L 1 | tail -1 => counts the numbers of directories and sub directories in current directory.
