@@ -7,3 +7,5 @@
 4) echo $PATH | tr ":" "\n" | wc -l => this command finds the number of directories in the path.
 
 5) printenv => lists all environment variables.
+
+6) set => this command lists all variables, both environmental variables, local variables, and functions.
