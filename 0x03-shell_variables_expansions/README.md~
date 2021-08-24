@@ -4,4 +4,4 @@
 
 3) PATH=$PATH:/action => this command adds the directory /action to PATH..
 
-4) ls -A | wc -l => this command finds the number of directories in the path.
+4) echo $PATH | tr ":" "\n" | wc -l => this command finds the number of directories in the path.
