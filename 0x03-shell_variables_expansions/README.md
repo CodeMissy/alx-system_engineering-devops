@@ -3,3 +3,5 @@
 1) echo hello $USER => this command prints the word "hello user" replacing user with the current user. ~ is a character that prints user
 
 3) PATH=$PATH:/action => this command adds the directory /action to PATH..
+
+4) () {echo $#} **/lib*(DN/) => this command finds the number of directories in the path.
