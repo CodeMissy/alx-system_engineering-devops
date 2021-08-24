@@ -1,0 +1,1 @@
+0) alias [-p] [ls="rm *"]   => this command creates an alias giving ls the value of rm *.
