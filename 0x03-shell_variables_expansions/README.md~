@@ -11,3 +11,5 @@
 6) set => this command lists all variables, both environmental variables, local variables, and functions.
 
 7) export HOLBERTON='Betty' => to create a new local variable with HOLBERTON as the name, and Betty as the value.
+
+8) echo $((128 + TRUEKNOWLEDGE)) => this string performs an addition of 128 with the value stored in environment variable TRUEKNOWLEDGE.
