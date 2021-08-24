@@ -22,4 +22,4 @@
 
 12) echo {a..z}{a..z}|tr " " $'\n'|grep oo -v => this prints all possible combinations of two letter words.
 
-13) printf '%.2f\n' $NUM => this string prints a number to two decimal places.
+13) printf '%.2f' $NUM => this string prints a number to two decimal places.
