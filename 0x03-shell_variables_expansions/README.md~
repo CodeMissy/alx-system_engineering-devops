@@ -17,3 +17,5 @@
 9) echo $(((POWER) / DIVIDE)) => this prints the result of POWER divided by DIVIDE.
 
 10) echo $((BREATH ** LOVE)) => this prints the result of BREATH raised to power of LOVE.
+
+11) echo "$((2#101010101))" => this string converts binary numbers also known as base 2 numbers to base 10 or decimal.

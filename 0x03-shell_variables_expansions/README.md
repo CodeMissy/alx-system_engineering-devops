@@ -18,4 +18,5 @@
 
 10) echo $((BREATH ** LOVE)) => this prints the result of BREATH raised to power of LOVE.
 
-11) echo "$((2#101010101))" => this string converts binary numbers also known as base 2 numbers to base 10 or decimal.
+11) echo $((2#$@)) => this string converts binary numbers also known as base 2 numbers to base 10 or decimal.
+
