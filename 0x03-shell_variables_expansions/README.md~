@@ -10,4 +10,4 @@
 
 6) set => this command lists all variables, both environmental variables, local variables, and functions.
 
-7) BETTY='Holberton' => to create a new local variable with BETTY as the name, and Holberton as the value.
+7) exportx BETTY='Holberton' => to create a new local variable with BETTY as the name, and Holberton as the value.
