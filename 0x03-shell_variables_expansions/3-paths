@@ -1,2 +1,2 @@
 #!/bin/bash
-() {echo $#} **/lib*(DN/)
+echo $PATH | tr ":" "\n"

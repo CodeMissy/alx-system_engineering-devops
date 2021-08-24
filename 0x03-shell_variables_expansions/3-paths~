@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -name lib\* -exec echo x \; | wc -1
+() {echo $#} **/lib*(DN/)

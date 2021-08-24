@@ -4,4 +4,4 @@
 
 3) PATH=$PATH:/action => this command adds the directory /action to PATH..
 
-4) () {echo $#} **/lib*(DN/) => this command finds the number of directories in the path.
+4) echo $PATH | tr ":" "\n" => this command finds the number of directories in the path.
