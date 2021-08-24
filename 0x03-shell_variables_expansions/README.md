@@ -21,3 +21,5 @@
 11) echo $((2#BINARY)) => this string converts binary numbers also known as base 2 numbers to base 10 or decimal.
 
 12) echo {a..z}{a..z}|tr " " $'\n'|grep oo -v => this prints all possible combinations of two letter words.
+
+13) printf '%.2f\n' $NUM => this string prints a number to two decimal places.
