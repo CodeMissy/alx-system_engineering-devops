@@ -16,4 +16,4 @@
 
 9) echo $(((POWER) / DIVIDE)) => this prints the result of POWER divided by DIVIDE.
 
-10) echo (((BREATH ** LOVE)) => this prints the result of BREATH raised to power of LOVE.
+10) echo $((BREATH ** LOVE)) => this prints the result of BREATH raised to power of LOVE.
