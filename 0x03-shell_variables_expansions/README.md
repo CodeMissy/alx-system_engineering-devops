@@ -2,4 +2,4 @@
 
 1) echo hello $USER => this command prints the word "hello user" replacing user with the current user. ~ is a character that prints user
 
-3) export PATH=/action => this command adds the directory /action to PATH..
+3) PATH=$PATH:/action => this command adds the directory /action to PATH..
