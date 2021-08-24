@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '%.2f' $NUM
+perl -e "printf('%.2f', $N/100)"
