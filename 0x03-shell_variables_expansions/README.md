@@ -24,4 +24,4 @@
 
 13) printf '%.2f\n' $NUM => this string prints a number to two decimal places.
 
-14) echo "obase=16; 34" | bc  => this converts a number from base 10(Decimal) to base 16(Hexadecimal).
+14)  printf '%x\n' 26 | bc  => this converts a number from base 10(Decimal) to base 16(Hexadecimal).
